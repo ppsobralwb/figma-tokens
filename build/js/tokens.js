@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 03 Jan 2023 18:13:14 GMT
+ * Generated on Wed, 04 Jan 2023 15:02:35 GMT
  */
 
 module.exports = {
@@ -9,5 +9,7 @@ module.exports = {
   "ColorGray500": "#646565",
   "ColorGray800": "#1c1c1f",
   "ColorGray900": "#121214",
-  "ColorPurple500": "#825cf6"
+  "ColorPurple400": "#9778f8",
+  "ColorPurple500": "#825cf6",
+  "ColorPurple600": "#882ffc"
 };
